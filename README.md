@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roozmeer
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning software developer at ROC Flevoland
+- 🌱 I’m currently learning software development at ROC Flevoland
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

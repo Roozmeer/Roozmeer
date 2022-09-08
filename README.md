@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning software development at ROC Flevoland
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Riannemaravanleeuwen@gmail.com
 
 <!---
 Roozmeer/Roozmeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
